@@ -14,7 +14,7 @@
 - store result on  cache on first request
 - serve data from cache starting from the second request
 - reset cache when the repository gets updated
-- 
+
 ## Optimizations
 - minimize downloads from Github Api by first fetching the latest tree hash (in a non-recursive approach)
 - request the whole tree if latest tree's hash is different from the already cached one.
