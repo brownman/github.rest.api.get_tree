@@ -23,3 +23,9 @@
 - manage a que to store the cached items
 - set item priority depends on usage frequency
 
+## Easy Deploy and Test:
+- upon visiting this Github repository: 
+-- click the "GitPod" button
+- run `npm install`
+- run `npm start`
+- access internal browser at: `<your gitpod instanse url>/tree?username=<username>&repo=<repo>`
